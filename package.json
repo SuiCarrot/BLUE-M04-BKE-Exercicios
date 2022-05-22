@@ -1,0 +1,33 @@
+{
+  "name": "blue-m04-bke-exercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "start-1": "node dist/exercicio01/index.js",
+    "build-1": "npx tsc",
+    "build-and-run1": "npm run build-1  && npm run start-1",
+
+    "start-2": "node dist/exercicio02/index.js",
+    "build-2": "npx tsc",
+    "build-and-run-2": "npm run build-2  && npm run start-2",
+
+    "start-3": "node dist/exercicio03/index.js",
+    "build-3": "npx tsc",
+    "build-and-run3": "npm run build-3  && npm run start-3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuiCarrot/BLUE-M04-BKE-Exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuiCarrot/BLUE-M04-BKE-Exercicios/issues"
+  },
+  "homepage": "https://github.com/SuiCarrot/BLUE-M04-BKE-Exercicios#readme"
+}
