@@ -29,8 +29,6 @@ npm run build-and-run-N (N é o número do exercício que você quer rodar, sem 
 Este comando irá criar a pasta dist como acima, porém já irá rodar o exercicio selecionado logo após.
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * Javascript; 
 * Typescript
 
